@@ -2973,3 +2973,4 @@
 			src: ["intersection-observer@0.7.0/intersection-observer.min.js"]
 		})
 }("undefined" == typeof files ? files = {} : files);
+// source: https://github.com/yyingc/js
